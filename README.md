@@ -15,3 +15,5 @@ all preview of tint2 stuff was posted on <a href="https://www.reddit.com/user/ji
 <p>
 <h3>Wives of Gojira</h3>
 <p><img src="https://i.redd.it/aq9iwefoiry31.png"></img>
+<p>
+<p><b>more tint2 theme coming soon</b>
