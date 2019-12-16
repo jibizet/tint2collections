@@ -26,4 +26,4 @@ all preview of tint2 stuff was posted on <a href="https://www.reddit.com/user/ji
 <p><h2>How to install</h2>
 <p>1. clone it with git clone https://github.com/jibizet/tint2collections.git
 <p>2. change directory to tint2collections with cd tint2collections
-<p>3. place it to ~/.config/tint2/ with cd tint2collections/* ~/.config/tint2
+<p>3. place it to ~/.config/tint2/ with cp tint2collections/* ~/.config/tint2
