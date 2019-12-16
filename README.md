@@ -15,7 +15,15 @@ all preview of tint2 stuff was posted on <a href="https://www.reddit.com/user/ji
 <p>
 <h3>Wives of Gojira</h3>
 <p><img src="https://i.redd.it/aq9iwefoiry31.png"></img>
+<p><b>Praise all my sister, we belong dead!
+  <p>The king of pacific waters claim all our heads!</b>
+<p>
+  <h3>Nemurenai Yoru</h3>
+  <p><img src="https://i.redd.it/8polg10nm1541.png"></img>
+  <p><b>*INSOMNIA INTENSIFIES*</b>
 <p>
 <p><b>more tint2 theme coming soon</b>
 <p><h2>How to install</h2>
-<p>clone it, and place it to ~/.config/tint2/
+<p>1. clone it with git clone https://github.com/jibizet/tint2collections.git
+<p>2. change directory to tint2collections with cd tint2collections
+<p>3. place it to ~/.config/tint2/ with cd tint2collections/* ~/.config/tint2
