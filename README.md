@@ -23,7 +23,7 @@ all preview of tint2 stuff was posted on <a href="https://www.reddit.com/user/ji
   <p><b>*INSOMNIA INTENSIFIES*</b>
 <p>
   <h3>Punk Rock Jalanan</h3>
-  <p>img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e83615b5-1cdc-4911-ab13-2e6e2866e68b/ddmn9vn-9e0eae9d-0325-4580-a2ef-b16618881367.png"></img>
+  <p><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e83615b5-1cdc-4911-ab13-2e6e2866e68b/ddmn9vn-9e0eae9d-0325-4580-a2ef-b16618881367.png"></img>
   <p><b>suddenly i remember to my childhood</b>
 <p><b>more tint2 theme coming soon</b>
 <p><h2>How to install</h2>
